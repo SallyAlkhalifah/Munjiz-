@@ -27,22 +27,25 @@ and an AI chatbot
 ## Screenshots
 
 ### Homepage
-![Homepage](homepage.png)
+![Homepage](screenshots/homepage.png)
 
 ### Homepage - version 2
-![Homepage 2](homepage2.png)
+![Homepage 2](screenshots/homepage2.png)
 
 ### Collage Page
-![Collage Page](collagepage.png)
+![Collage Page](screenshots/collagepage.png)
 
 ### Details Page
-![Details Page](detailspage.png)
+![Details Page](screenshots/detailspage.png)
 
 ### Admin Panel
-![Admin Panel](adminpanel.png)
+![Admin Panel](screenshots/adminpanel.png)
 
 ### Dark Mode
-![Dark Mode](darkmode.png)
+![Dark Mode](screenshots/darkmode.png)
+
+### Chatbot
+![Dark Mode](screenshots/chatbot.png)
 
 ## Technologies Used
 - Python
