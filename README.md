@@ -24,6 +24,26 @@ and an AI chatbot
 - Supervisor upload system
 - Admin dashboard
 
+## Screenshots
+
+### Homepage
+![Homepage](homepage.png)
+
+### Homepage - version 2
+![Homepage 2](homepage2.png)
+
+### Collage Page
+![Collage Page](collagepage.png)
+
+### Details Page
+![Details Page](detailspage.png)
+
+### Admin Panel
+![Admin Panel](adminpanel.png)
+
+### Dark Mode
+![Dark Mode](darkmode.png)
+
 ## Technologies Used
 - Python
 - Django
@@ -36,7 +56,7 @@ and an AI chatbot
 To improve accessibility of academic work, enhance collaboration, and help students build upon previous research instead of starting from scratch.
 
 ## Team
-- Sally Ali
+- Sally Alkalifah (the leader)
 - Aeshah Mohammed 
 - Noura Saleh 
 - Sahlah Majed 
